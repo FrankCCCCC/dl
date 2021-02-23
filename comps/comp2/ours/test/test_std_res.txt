@@ -1,0 +1,11 @@
+Epoch 1/5: 100%|█████████████| 280/280 [07:32<00:00,  1.62s/it, conf_loss=0.826, lr=0.00095, regression_loss=0.104, step/s=1.33]
+19:56:47.160719: I tensorflow/core/kernels/data/shuffle_dataset_op.cc:184] Filling up shuffle buffer (this may take a while): 8 of 32
+Epoch 1/5: 100%|███████████████████████████████████████████████████████████████| 31/31 [01:31<00:00,  2.95s/it, total_loss=1.17]
+19:58:18.738308: I tensorflow/core/kernels/data/shuffle_dataset_op.cc:184] Filling up shuffle buffer (this may take a while): 7 of 32
+Epoch 2/5: 100%|████████████| 280/280 [07:26<00:00,  1.60s/it, conf_loss=0.68, lr=0.000902, regression_loss=0.0909, step/s=1.36]
+20:05:45.390097: I tensorflow/core/kernels/data/shuffle_dataset_op.cc:184] Filling up shuffle buffer (this may take a while): 8 of 32
+Epoch 2/5: 100%|██████████████████████████████████████████████████████████████| 31/31 [01:29<00:00,  2.89s/it, total_loss=0.948]
+20:07:15.664916: I tensorflow/core/kernels/data/shuffle_dataset_op.cc:184] Filling up shuffle buffer (this may take a while): 7 of 32
+Epoch 3/5: 100%|███████████| 280/280 [07:27<00:00,  1.60s/it, conf_loss=0.638, lr=0.000857, regression_loss=0.0848, step/s=1.66]
+20:14:43.384394: I tensorflow/core/kernels/data/shuffle_dataset_op.cc:184] Filling up shuffle buffer (this may take a while): 8 of 32
+Epoch 3/5: 100%|██████████████████████████████████████████████████████████████| 31/31 [01:30<00:00,  2.92s/it, total_loss=0.745]

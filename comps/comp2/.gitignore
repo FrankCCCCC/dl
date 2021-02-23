@@ -1,0 +1,8 @@
+ours/VOCdevkit/VOC2007/Annotations/*
+# ours/VOCdevkit/VOC2007/ImageSets/Main/*
+ours/VOCdevkit/VOC2007/JPEGImages/*
+ours/VOCdevkit_train/VOC2007/Annotations/*
+ours/VOCdevkit_train/VOC2007/JPEGImages/*
+
+!ours/VOCdevkit/VOC2007/Annotations/readme.md
+!ours/VOCdevkit/VOC2007/JPEGImages/readme.md
